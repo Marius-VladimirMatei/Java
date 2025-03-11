@@ -27,16 +27,19 @@ public class Input {
 
     // Static method to read input from the user and return an Input object
     public static Input getInput() {
-        Scanner scanner = new Scanner(System.in);
+        Scanner mathScanner = new Scanner(System.in);
 
         System.out.print("Enter the first number: ");
-        double number1 = scanner.nextDouble();
+        double number1 = mathScanner.nextDouble();
 
         System.out.print("Enter the operator (+, -, *, /): ");
-        String operator = scanner.next();
+        String operator = mathScanner.next();
 
         System.out.print("Enter the second number: ");
-        double number2 = scanner.nextDouble();
+        double number2 = mathScanner.nextDouble();
+
+        // Close the scanner
+        mathScanner.close();
 
         return new Input(number1, operator, number2);
     }
