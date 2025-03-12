@@ -22,10 +22,8 @@ public class Calculator {
 
     public double divide() {
         if (number2 == 0) {
-            System.out.println("Error: Division by 0 is not possible.");
-            return 0;
-        } else {
-            return number1 / number2;
+            throw new ArithmeticException();
         }
+        return number1 / number2;
     }
 }
