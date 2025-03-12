@@ -29,12 +29,12 @@ public class Main {
         Input userInput = getInput();
 
         // Create a MathOperations instance using the two numbers
-        MathOperations newOperation = new MathOperations(userInput.getNumber1(), userInput.getNumber2());
+        Calculator newOperation = new Calculator(userInput.getNumber1(), userInput.getNumber2());
 
         double result = 0;
 
         // Determine the operation based on the operator input
-        switch (userInput.getMath_operation()) {
+        switch (userInput.getMathOperator()) {
             case "+":
                 result = newOperation.add();
                 System.out.println("The result is: "+ result);

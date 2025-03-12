@@ -1,14 +1,12 @@
-import java.util.Scanner;
-
 public class Input {
     private double number1;
     private double number2;
-    private String math_operation;
+    private String mathOperator;
 
     // Constructor
-    public Input(double number1, String operator, double number2) {
+    public Input(double number1, String mathOperator, double number2) {
         this.number1 = number1;
-        this.math_operation = operator;
+        this.mathOperator = mathOperator;
         this.number2 = number2;
     }
 
@@ -21,8 +19,8 @@ public class Input {
         return number2;
     }
 
-    public String getMath_operation() {
-        return math_operation;
+    public String getMathOperator() {
+        return mathOperator;
     }
 
 }
