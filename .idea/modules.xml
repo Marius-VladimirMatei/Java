@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaProjects.iml" filepath="$PROJECT_DIR$/.idea/JavaProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KMS6_LE_02_01_user_data/KMS6_LE_02_01_user_data.iml" filepath="$PROJECT_DIR$/KMS6_LE_02_01_user_data/KMS6_LE_02_01_user_data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KMS6_LE_02_02_simple_calculator/KMS6_LE_02_02_simple_calculator.iml" filepath="$PROJECT_DIR$/KMS6_LE_02_02_simple_calculator/KMS6_LE_02_02_simple_calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KMS6_LE_02_03_area_volume_calculator/KMS6_LE_02_03_area_volume_calculator.iml" filepath="$PROJECT_DIR$/KMS6_LE_02_03_area_volume_calculator/KMS6_LE_02_03_area_volume_calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KMS6_LE_03_01_order_check/KMS6_LE_03_01_order_check.iml" filepath="$PROJECT_DIR$/KMS6_LE_03_01_order_check/KMS6_LE_03_01_order_check.iml" />
+    </modules>
+  </component>
+</project>

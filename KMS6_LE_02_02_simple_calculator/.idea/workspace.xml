@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="48615070-426f-47d9-9460-19baad1c5a10" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../4 Object Oriented Programming/Fleet Management/fleet_management/fleet_management.py" beforeDir="false" />
+      <change beforePath="$Projet_Path$/club_administration.py" beforeDir="false" />
+      <change beforePath="$Projet_Path$/fleet_management.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaModuleProjects/KMS6_LE_02_02_simple_calculator/simpleCalculator/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaModuleProjects/KMS6_LE_02_02_simple_calculator/simpleCalculator/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaModuleProjects/KMS6_LE_02_02_simple_calculator/simpleCalculator/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaModuleProjects/KMS6_LE_02_02_simple_calculator/simpleCalculator/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaModuleProjects/KMS6_LE_02_02_simple_calculator/simpleCalculator/simpleCalculator.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaModuleProjects/KMS6_LE_02_02_simple_calculator/simpleCalculator/src/Calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaModuleProjects/KMS6_LE_02_02_simple_calculator/simpleCalculator/src/Input.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaModuleProjects/KMS6_LE_02_02_simple_calculator/simpleCalculator/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaModuleProjects/KMS6_LE_02_03_area_volume_calculator/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaModuleProjects/KMS6_LE_02_03_area_volume_calculator/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaModuleProjects/KMS6_LE_02_03_area_volume_calculator/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaModuleProjects/KMS6_LE_02_03_area_volume_calculator/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaModuleProjects/KMS6_LE_02_03_area_volume_calculator/KMS6_LE_02_03_area_volume_calculator.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaModuleProjects/KMS6_LE_02_03_area_volume_calculator/out/production/KMS6_LE_02_03_area_volume_calculator/BaseShape.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaModuleProjects/KMS6_LE_02_03_area_volume_calculator/out/production/KMS6_LE_02_03_area_volume_calculator/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaModuleProjects/KMS6_LE_02_03_area_volume_calculator/out/production/KMS6_LE_02_03_area_volume_calculator/Cuboid.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaModuleProjects/KMS6_LE_02_03_area_volume_calculator/out/production/KMS6_LE_02_03_area_volume_calculator/Cylinder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaModuleProjects/KMS6_LE_02_03_area_volume_calculator/out/production/KMS6_LE_02_03_area_volume_calculator/EquilateralTriangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaModuleProjects/KMS6_LE_02_03_area_volume_calculator/out/production/KMS6_LE_02_03_area_volume_calculator/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaModuleProjects/KMS6_LE_02_03_area_volume_calculator/out/production/KMS6_LE_02_03_area_volume_calculator/Rectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaModuleProjects/KMS6_LE_02_03_area_volume_calculator/out/production/KMS6_LE_02_03_area_volume_calculator/Solid.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaModuleProjects/KMS6_LE_02_03_area_volume_calculator/out/production/KMS6_LE_02_03_area_volume_calculator/TriangularPrism.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaModuleProjects/KMS6_LE_02_03_area_volume_calculator/src/BaseShape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaModuleProjects/KMS6_LE_02_03_area_volume_calculator/src/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaModuleProjects/KMS6_LE_02_03_area_volume_calculator/src/Cuboid.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaModuleProjects/KMS6_LE_02_03_area_volume_calculator/src/Cylinder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaModuleProjects/KMS6_LE_02_03_area_volume_calculator/src/EquilateralTriangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaModuleProjects/KMS6_LE_02_03_area_volume_calculator/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaModuleProjects/KMS6_LE_02_03_area_volume_calculator/src/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaModuleProjects/KMS6_LE_02_03_area_volume_calculator/src/Solid.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaModuleProjects/KMS6_LE_02_03_area_volume_calculator/src/TriangularPrism.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Marius-VladimirMatei"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Marius-VladimirMatei/Java",
+    "accountId": "1aa1b4dc-8e4d-4a55-9469-dd2df8608e8f"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2uOnyxMIvZJN6upqtMnxNGOqkYI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "area__volume__calculator",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/052583/OneDrive/________WORK One Drive Cloud/____ #1 SZF/5 SOFTWARE DEVELOPMENT APPLIKATIONS ENTWICKLUNG/KMS 6 Java Fundamentals/JavaProjects"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="48615070-426f-47d9-9460-19baad1c5a10" name="Changes" comment="" />
+      <created>1742128749060</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1742128749060</updated>
+    </task>
+    <servers />
+  </component>
+</project>
