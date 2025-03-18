@@ -16,7 +16,7 @@ public class Main {
             System.out.println("Swapping start year and end year to ensure start is less than end.");
         }
 
-        //
+        // Output the list
         List<Integer> leapYears = LeapYearCalculator.listLeapYears(startYear, endYear);
         System.out.println("Leap years between " + startYear + " and " + endYear + ":");
         for (int year : leapYears) {
