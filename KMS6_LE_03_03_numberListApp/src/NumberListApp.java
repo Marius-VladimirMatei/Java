@@ -9,9 +9,17 @@ public class NumberListApp {
 
         System.out.println("Number List Generator!");
 
-        int start = inputHandler.getStart();
-        int end = inputHandler.getEnd();
+        int start = inputHandler.getValidatedInt("Enter the start value: ");
+        int end = inputHandler.getValidatedInt("Enter the end value: ");
         int step = inputHandler.getStep();
+
+        // Swap the values using a temporary variable
+        if (start > end) {
+            int temp = start;
+            start = end;
+            end = temp;
+            System.out.println("Values swapped to ensure start < end.");
+        }
 
         System.out.println("Start: " + start + ", End: " + end + ", Step: " + step);
 
