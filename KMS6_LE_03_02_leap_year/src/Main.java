@@ -10,11 +10,13 @@ public class Main {
 
         // Validate that the start year is less than or equal to the end year
         if (startYear > endYear) {
-            System.out.println("Start year should be less than or equal to the end year. Exiting program.");
-            return;
+            int temp = startYear;
+            startYear = endYear;
+            endYear = temp;
+            System.out.println("Swapping start year and end year to ensure start is less than end.");
         }
 
-
+        //
         List<Integer> leapYears = LeapYearCalculator.listLeapYears(startYear, endYear);
         System.out.println("Leap years between " + startYear + " and " + endYear + ":");
         for (int year : leapYears) {
