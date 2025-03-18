@@ -8,7 +8,7 @@ public class Main {
         int startYear = input.getValidatedInteger("Enter the start year: ");
         int endYear = input.getValidatedInteger("Enter the end year: ");
 
-        // Validate that the start year is less than or equal to the end year
+        // Validate that the start year is less than the end year
         if (startYear > endYear) {
             int temp = startYear;
             startYear = endYear;
