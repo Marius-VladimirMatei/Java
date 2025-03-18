@@ -23,8 +23,7 @@ public class OrderRecord {
         return unitPrice;
     }
 
-
-    // toString method used to set the output
+    // toString method used to set the output => overwrite the default toString from sout
     @Override
     public String toString() {
         return "Description: " + description + "\n" +

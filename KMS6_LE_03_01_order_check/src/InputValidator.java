@@ -36,6 +36,7 @@ public class InputValidator {
     public double getValidatedDouble() {
         String prompt = "Enter unit price (decimal, comma or point allowed): ";
         System.out.print(prompt);
+
         while (true) {
             String input = scanner.nextLine().replace(',', '.');
             try {
@@ -46,4 +47,3 @@ public class InputValidator {
             }
         }
     }
-}
