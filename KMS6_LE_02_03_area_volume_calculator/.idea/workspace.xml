@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="902dd73f-c782-4731-a96a-72cfc4702e80" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/KMS6_LE_02_03_area_volume_calculator.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KMS6_LE_03_01_order_check/src/InputValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../KMS6_LE_03_01_order_check/src/InputValidator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KMS6_LE_03_02_leap_year/src/Input.java" beforeDir="false" afterPath="$PROJECT_DIR$/../KMS6_LE_03_02_leap_year/src/Input.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KMS6_LE_03_02_leap_year/src/LeapYearCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../KMS6_LE_03_02_leap_year/src/LeapYearCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KMS6_LE_03_03_numberListApp/src/OutputHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../KMS6_LE_03_03_numberListApp/src/OutputHandler.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Marius-VladimirMatei"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Marius-VladimirMatei/Java.git",
+    "accountId": "1aa1b4dc-8e4d-4a55-9469-dd2df8608e8f"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2uWVfIwZfD2h26sBzLfDZLrimic" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/052583/OneDrive/________WORK One Drive Cloud/____ #1 SZF/5 SOFTWARE DEVELOPMENT APPLIKATIONS ENTWICKLUNG/KMS 6 Java Fundamentals/JavaProjects/KMS6_LE_02_03_area_volume_calculator"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="902dd73f-c782-4731-a96a-72cfc4702e80" name="Changes" comment="" />
+      <created>1742364418134</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1742364418134</updated>
+    </task>
+    <servers />
+  </component>
+</project>
