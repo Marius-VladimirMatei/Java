@@ -11,13 +11,7 @@ public class LeapYearCalculator {
         // - Not every four years is a leap year. As a rule, leap years are skipped
         // if the year is divisible by 100 AND NOT by 400
 
-        if (year % 400 == 0) {
-            return true;
-        }
-        if (year % 100 == 0) {
-            return false;
-        }
-        if (year % 4 == 0) {
+        if ((year % 4 == 0 && year % 100 != 0) || (year % 400 == 0)) {
             return true;
         }
         return false;
