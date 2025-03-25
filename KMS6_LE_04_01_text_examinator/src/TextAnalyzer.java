@@ -1,4 +1,4 @@
-// Class designed to implement the statitics logic and methods to analyze the text.
+// Class designed to implement the statistics logic and methods to analyze the text.
 
 public class TextAnalyzer {
 
