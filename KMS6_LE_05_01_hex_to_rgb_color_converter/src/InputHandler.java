@@ -5,11 +5,16 @@ public class InputHandler {
     private Scanner scanner;
 
     public InputHandler() {
-        // Initialize the scanner to read from the console.
         scanner = new Scanner(System.in);
     }
 
-    // Prompts the user and reads a hex color code.
+    // Prompts and reads the menu choice.
+    public String readMenuChoice() {
+        System.out.print("Enter your choice: ");
+        return scanner.nextLine();
+    }
+
+    // Prompts and reads a hex color code.
     public String readHexCode() {
         System.out.print("Enter a hex color code (e.g., #FF0000): ");
         return scanner.nextLine();

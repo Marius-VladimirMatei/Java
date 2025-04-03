@@ -4,21 +4,27 @@ public class Main {
         OutputHandler outputHandler = new OutputHandler();
         ColorConverter converter = new HexToRGBConverter();
 
-        // Display header.
-        outputHandler.displayHeader();
-
-        // Process user input in an infinite loop.
+        // Main loop with menu.
         while (true) {
-            String input = inputHandler.readHexCode();
-            try {
-                // Convert the hex code into a Color.
-                Color color = converter.convert(input);
-                outputHandler.displayColor(color);
-            } catch (IllegalArgumentException e) {
-                outputHandler.displayError(e.getMessage());
+            outputHandler.displayMenu();
+            String choice = inputHandler.readMenuChoice();
+
+            if (choice.equals("2")) {
+                outputHandler.displayExitMessage();
+                break;
+            } else if (choice.equals("1")) {
+                String hexInput = inputHandler.readHexCode();
+                try {
+                    Color color = converter.convert(hexInput);
+                    outputHandler.displayColor(color);
+                } catch (IllegalArgumentException e) {
+                    outputHandler.displayError(e.getMessage());
+                }
+            } else {
+                outputHandler.displayError("Invalid selection. Please try again.");
             }
             System.out.println(); // Blank line for readability.
-
         }
+        inputHandler.close();
     }
 }
