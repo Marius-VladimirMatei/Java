@@ -1,0 +1,24 @@
+
+
+CREATE DATABASE IF NOT EXISTS football_club;
+USE football_club;
+
+-- Teams table
+CREATE TABLE IF NOT EXISTS teams (
+id INT AUTO_INCREMENT PRIMARY KEY,
+type VARCHAR(20) NOT NULL,
+name VARCHAR(100) NOT NULL,
+coach VARCHAR(100) NOT NULL,
+player_count INT NOT NULL,
+specific_attribute INT NOT NULL
+);
+
+-- Players table
+CREATE TABLE IF NOT EXISTS players (
+id INT AUTO_INCREMENT PRIMARY KEY,
+team_id INT NOT NULL,
+name VARCHAR(100) NOT NULL,
+position VARCHAR(50) NOT NULL,
+jersey_number INT NOT NULL,
+FOREIGN KEY (team_id) REFERENCES teams(id) ON DELETE CASCADE
+);
