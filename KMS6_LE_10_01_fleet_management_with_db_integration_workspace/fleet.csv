@@ -1,0 +1,8 @@
+type,licensePlate,mileage,fuelLevel,specificAttribute
+Car,G123AB,233666.0,55.0,5
+Truck,W321BB,25267.0,100.0,12.0
+Car,G999II,111.0,90.0,4
+Car,W987YH,1289.0,12.0,4
+Car,W765UY,878777.0,55.0,4
+Motorcycle,GU123MOTO,2500.0,12.0,false
+Bicycle,G-1-BIKE,150.0,0.0,false
